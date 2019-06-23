@@ -1,7 +1,8 @@
 /* CSS Document */
 
-.fonted {
+body {
 	font-family: 'Poppins', sans-serif;
+	border-top: 2px solid #e44cc4;
 }
 
 .seprator {
