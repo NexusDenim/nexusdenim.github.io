@@ -1,0 +1,23 @@
+/* CSS Document */
+
+.fonted {
+	font-family: 'Poppins', sans-serif;
+}
+
+.seprator {
+	margin: 15px 0px;
+}
+
+.coloring_title {
+	color: #e566d1;
+}
+
+.coloring_desc {
+	color: #f4beeb;
+}
+
+.border_seprator {
+	border-bottom: 1px solid #e44cc4;
+	padding: 10px 0px;
+}
+
