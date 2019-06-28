@@ -1,5 +1,10 @@
 // JavaScript Document
 
+particlesJS.load('particles-js', 'assets/json/particles_config.json', function() {
+  console.log('Particles Configuration loaded');
+});
+
+
 let chart_labels = ['C++', 'C#','Java', 'LAMP', 'Lua', 'JS', 'Python', 'Linux Bash'];
 let chart_data = [3, 3, 4, 4, 4, 3, 3, 4];
 
